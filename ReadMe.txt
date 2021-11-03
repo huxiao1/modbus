@@ -1,1 +1,1 @@
-This program is used to control the Taida AA12 电机
+This program is used to control the Taida AA12 motor
